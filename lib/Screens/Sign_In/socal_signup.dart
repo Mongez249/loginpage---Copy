@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:loginpage/Screens/Sign_In/socal_icons.dart';
-import 'package:loginpage/Screens/ordivider.dart';
+import 'package:loginpage/Constent/ordivider.dart';
 
 class SocalSignUp extends StatelessWidget {
   const SocalSignUp({
